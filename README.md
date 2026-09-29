@@ -32,23 +32,7 @@
 </p>
 
 
-<!-- ✨ GITHUB PROFILE SUMMARY CARDS -->
-<h2 align="center">📊 GitHub Profile Summary</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushka12-u&theme=tokyonight" width="95%" />
-</p>
 
-<!-- 🌈 TOP LANGUAGES -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<!-- 🏆 GITHUB TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushka12-u&theme=algolia&margin-w=15&margin-h=15&no-bg=true&column=8&title=MultiLanguage,Followers,Stars,Commits,Repositories,PullRequest" width="100%"/>
-</p>
 
 
 <!-- 🟦 GITHUB STATS & STREAK -->
