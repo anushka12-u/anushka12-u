@@ -8,10 +8,12 @@
   <h2 style="color:#6AD3F5;">About Me 👤</h2>
   <p>
     <b>Hi, I'm <span style="color:#B16CE5;">Anushka Awasthi</span>!</b><br/>
-    ⚡ <i>Spring Boot fan, backend architect, & fascinated by Artificial Intelligence.<br/>
-    🎯 Currently learning <b>AI automation</b>, <b>LLMs</b>, and <b>RAG pipelines</b>.<br/>
-    🚀 Passionate about building scalable server-side systems & exploring edge tech.<br/>
-    🌐 Open for collaboration & challenging backend roles!</i>
+    💻 <i>Backend Developer & AI/ML Enthusiast.</i><br/>
+    🚀 <i>Building backend systems and AI-powered applications with <b>Python</b>, <b>FastAPI</b>, and <b>Spring Boot</b>.</i><br/>
+    🤖 <i>Currently exploring <b>Machine Learning</b>, <b>LLMs</b>, <b>RAG</b>, and <b>AI Agents</b>.</i><br/>
+    🧠 <i>Passionate about turning AI/ML concepts into practical and scalable applications.</i><br/>
+    🌱 <i>Continuously improving my <b>DSA</b>, backend engineering, and AI/ML skills.</i><br/>
+    🤝 <i>Open to collaborating on <b>AI, ML, and backend projects</b>.</i>
   </p>
 </div>
 
